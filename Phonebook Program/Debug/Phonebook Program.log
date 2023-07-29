@@ -1,0 +1,23 @@
+﻿  addUpdateCommand.cpp
+  bookCommand.cpp
+  eraseCommand.cpp
+  eraseUndoRedoCommand.cpp
+  insertUndoRedoCommand.cpp
+  memoryLeak.cpp
+D:\Homework\CS 2336\CS 2336 Project 3\Phonebook Program\Phonebook Program\memoryLeak.h(138,30): warning C4101: 'err': unreferenced local variable
+  menuList.cpp
+  Phonebook Program.cpp
+  phoneBook.cpp
+D:\Homework\CS 2336\CS 2336 Project 3\Phonebook Program\Phonebook Program\phoneBook.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+D:\Homework\CS 2336\CS 2336 Project 3\Phonebook Program\Phonebook Program\phoneBook.cpp(47,19): warning C4018: '<': signed/unsigned mismatch
+D:\Homework\CS 2336\CS 2336 Project 3\Phonebook Program\Phonebook Program\phoneBook.cpp(65,19): warning C4018: '<': signed/unsigned mismatch
+  phoneBookEntry.cpp
+  printCommand.cpp
+  redoCommand.cpp
+  stack.cpp
+  undoCommand.cpp
+  undoRedo.cpp
+D:\Homework\CS 2336\CS 2336 Project 3\Phonebook Program\Phonebook Program\memoryLeak.h(138,30): warning C4101: 'err': unreferenced local variable
+  updateUndoRedoCommand.cpp
+  Generating Code...
+  Phonebook Program.vcxproj -> D:\Homework\CS 2336\CS 2336 Project 3\Phonebook Program\Debug\Phonebook Program.exe
